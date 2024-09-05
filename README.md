@@ -15,7 +15,8 @@
 
 <h2 align="left">🛠️ Languages and tools</h2>
 <div align="left">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reutlev98&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reutlev98&layout=compact&hide=html,css&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=79ff97&border_color=ffffff)
+
 
 </div>
 <br>
