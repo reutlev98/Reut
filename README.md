@@ -58,7 +58,10 @@
 
 
 
-1. **insert the third year project** : 
+1. **DataBase Development and Analysis** : This project develops a MySQL database to manage and analyze biological data from GUIDE-seq and rhAmpSeq, enabling comparison and analysis of genome editing results.
+  
+   [Repository](https://github.com/reutlev98/CRISPR-Database-Development-Analysis-Project.git)
+     
   
 2. **Arkanoid Arcade Game** : Arkanoid arcade game in Java, combining classic gameplay with modern design principles. Leveraged object-oriented programming (OOP) concepts and design patterns to enhance the game's robustness and flexibility.
 
