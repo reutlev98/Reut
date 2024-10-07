@@ -18,9 +18,11 @@
 
 ---
 
-<h2 align="left">📚 Languages and Tools</h2>
+<h2 align="left">📚 Languages</h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reutlev98&layout=compact&hide=html,css&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=79ff97&border_color=ffffff" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reutlev98&layout=compact&hide=html,css&hide_progress=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=79ff97&border_color=ffffff&hide_title=true&hide_border=true" alt="Top Languages">
+
+
 </div>
 
 <br>
