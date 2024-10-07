@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Reut Lev</h1>
+<h1 align="center">👋 Welcome to My Profile!</h1>
 <h3 align="center">Junior Software Developer | Bioinformatics Graduate from Bar-Ilan University, Israel</h3>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="left">✨ About Me</h2>
+<h2 align="left">🌟 About Me</h2>
 <p align="left">
   I am a Bioinformatics graduate with a passion for software development and data analysis. My experience includes building datasets and proficiency in multiple programming languages, along with a solid foundation in algorithms, data structures, and software architecture.  
   <br><br>
