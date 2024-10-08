@@ -8,7 +8,7 @@ I'm a **Bioinformatics graduate** from Bar-Ilan University with expertise in **t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reutlev98&layout=compact&hide=html,css&hide_progress=true&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=79ff97&border_color=ffffff&hide_title=true&hide_border=true" alt="Top Languages">
 
 ### Projects:
-- **[MySQL Database for Bioinformatics](https://github.com/reutlev98/CRISPR-Database-Development-Analysis-Project.git)**: Developed and analyzed a database for bioinformatics research.
+- **[DataBase Development and Analysis](https://github.com/reutlev98/CRISPR-Database-Development-Analysis-Project.git)**: Developed and analyzed a database for bioinformatics research.
 - **[RNA-Protein Binding Prediction](https://github.com/reutlev98/Deep-Learning-RNA-Binding-Prediction.git)**: Predicts RNA-protein binding strength using deep learning.
 - **[KNN Classifier](https://github.com/reutlev98/KNN-Classifier.git)**: Implements a K-Nearest Neighbors classifier in a multithreaded C++ architecture.
 - **[Genetic Algorithms](https://github.com/reutlev98?tab=repositories)**: A collection of projects utilizing genetic algorithms for various applications.
