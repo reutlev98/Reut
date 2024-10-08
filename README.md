@@ -9,6 +9,13 @@ I'm a **Bioinformatics graduate** from Bar-Ilan University with expertise in **t
 
 ### Projects:
 - **[DataBase Development and Analysis](https://github.com/reutlev98/CRISPR-Database-Development-Analysis-Project.git)**: Developed and analyzed a MySQL database for bioinformatics research.
+- **[RNA-Protein Binding Prediction](https://github.com/reutlev98/Deep-Learning-RNA-Binding-Prediction.git)**:  predict RNA-protein binding strength using a deep learning model trained on RNAcompete data.
+- **[Arkanoid Arcade Game](https://github.com/reutlev98/Arkanoid-Game-Implementation.git)**: A Java-based Arkanoid game that integrates classic gameplay with modern design principles, showcasing OOP concepts.
+- **[KNN Classifier](https://github.com/reutlev98/KNN-Classifier.git)**: A multithreaded C++ server-client architecture implementing a K-Nearest Neighbors classifier for efficient classification of numeric CSV files.
+- **Genetic Algorithm**:
+  - [Cipher Decoder](https://github.com/reutlev98/Genetic-Algorithms-Cipher-Decoder.git): Decrypts encoded text using genetic algorithms
+  - [Rumor Spread Simulation](https://github.com/reutlev98/Rumor-Spread-Simulation.git): Models and predicts the spread of rumors within a population.
+  - [Genetic Algorithm for Neural Network Optimization](https://github.com/reutlev98/Genetic-Algorithm-Neural-Network-Pattern-Recognition.git): Enhances neural network performance through optimized weight adjustment.
 - **Professional Experience**: Managed and led tech-focused projects, including data analysis, system improvements, and mentoring teams in fast-paced environments.
 
 ### Connect:
