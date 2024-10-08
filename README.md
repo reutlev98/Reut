@@ -19,4 +19,4 @@ I'm a **Bioinformatics graduate** from Bar-Ilan University with expertise in **t
 - **Professional Experience**: Managed and led tech-focused projects, including data analysis, system improvements, and mentoring teams in fast-paced environments.
 
 ### Connect:
-Feel free to explore my projects [here](https://github.com/reutlev98?tab=repositories) or reach out on [LinkedIn](https://www.linkedin.com/in/reut-lev-55509b250/)!
+Feel free to explore more of my projects [here](https://github.com/reutlev98?tab=repositories) or reach out on [LinkedIn](https://www.linkedin.com/in/reut-lev-55509b250/)!
