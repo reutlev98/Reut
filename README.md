@@ -12,7 +12,7 @@ I'm a **Bioinformatics graduate** from Bar-Ilan University with expertise in **t
 - **[RNA-Protein Binding Prediction](https://github.com/reutlev98/Deep-Learning-RNA-Binding-Prediction.git)**: Predicts RNA-protein binding strength using deep learning.
 - **[KNN Classifier](https://github.com/reutlev98/KNN-Classifier.git)**: Implements a K-Nearest Neighbors classifier in a multithreaded C++ architecture.
 - **[Genetic Algorithms](https://github.com/reutlev98?tab=repositories)**: A collection of projects utilizing genetic algorithms for various applications.
-- **[Arkanoid Arcade Game](https://github.com/reutlev98/Arkanoid-Game-Implementation.git)**: A Java-based Arkanoid game that integrates classic gameplay with modern design principles, showcasing OOP concepts.
+- **[Arkanoid Game](https://github.com/reutlev98/Arkanoid-Game-Implementation.git)**: A Java-based Arkanoid game that integrates classic gameplay with modern design principles, showcasing OOP concepts.
 - **Dashboards in [Power BI](https://github.com/reutlev98/Power-BI-Dashboards.git) and [Tableau](https://github.com/reutlev98/Tableau-Dashboard.git)**: Visualized financial data and insights using advanced analytics tools.
 
 ### Connect:
